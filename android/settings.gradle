@@ -1,0 +1,3 @@
+rootProject.name = 'ttfExample'
+
+include ':app'
